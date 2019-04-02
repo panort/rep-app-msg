@@ -16,7 +16,7 @@ int main(int argc, char* argv[])
         {
             message = "Hello ";
             message += arg2;
-            message += "!!!";
+            message += "!!!!!!!!!!!";
         }
         else if (arg1.compare("bye") == 0)
         {
